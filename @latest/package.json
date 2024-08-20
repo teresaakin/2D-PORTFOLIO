@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "kaboom": "^3000.1.17"
+  },
+  "devDependencies": {
+    "terser": "^5.31.5",
+    "vite": "^5.4.0"
+  }
+}
